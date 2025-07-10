@@ -39,3 +39,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # NexocideTask1
 Replicating the Top Section, Services, Case Studies  and Contact Page
 >>>>>>> 24941f9b7ef80769548e660dd06f5db3e95433de
+
+
+##Snapshots
+-![Screenshot 2025-07-10 110835](https://github.com/user-attachments/assets/1119b172-6fae-47a6-969d-ec2a0fd97770)
+-![Screenshot 2025-07-10 110914](https://github.com/user-attachments/assets/3e90dd09-23cf-47ed-988e-479b99031338)
+-![Screenshot 2025-07-10 110925](https://github.com/user-attachments/assets/8a88eb4f-63f1-4961-807d-3ead8a907d21)
+-![Screenshot 2025-07-10 110936](https://github.com/user-attachments/assets/038a45cf-7fa0-49e2-bfd0-381fe3807fbc)
+-![Screenshot 2025-07-10 110946](https://github.com/user-attachments/assets/573bef68-2b51-4028-bd52-834fb4be4175)
+-![Screenshot 2025-07-10 110959](https://github.com/user-attachments/assets/f46d6f2b-9866-49a3-88c0-055d4de0e597)
