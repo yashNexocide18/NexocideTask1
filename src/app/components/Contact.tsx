@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Contact() {
   return (
-    <div className="relative h-[90vh] w-[80vw] mx-auto mt-[120px] overflow-visible">
+    <div className="relative min-h-[90vh] w-[80vw] mx-auto mt-[120px] overflow-visible">
       <div className="flex items-center gap-8">
         <div className="w-fit bg-[#B9FF66] text-black font-space-grotesk font-bold text-4xl px-4 py-2 rounded-lg cursor-pointer">
           Contact Us
