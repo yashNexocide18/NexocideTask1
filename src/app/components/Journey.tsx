@@ -72,7 +72,7 @@ export default function Journey() {
                     className={`absolute border-[#B9FF66] border-b-[5px] border-l-[5px]   w-[537px] h-[190px] z-10 top-[90px] 
                     ${
                       isEven
-                        ? "left-14 -rounded-br-[2px]"
+                        ? "left-13 -rounded-br-[2px]"
                         : "-left-119 scale-x-[-1]"
                     } 
                     rounded-bl-2xl`}
